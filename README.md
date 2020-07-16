@@ -5,3 +5,4 @@ The 5 courses in this University of Michigan specialization introduce learners t
 https://www.coursera.org/specializations/data-science-python
 
 ## Specialization Certificate:
+![Specialization](Specialization_Completion%20Certificate.PNG)
